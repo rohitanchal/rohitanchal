@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohitanchal
-- 👀 I’m interested in ...coding and projects 
-- 🌱 I’m currently learning ...DSA
+- 👀 I’m interested in ...Development and projects 
+- 🌱 I’m currently learning ...Frameworks and DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://www.linkedin.com/in/rohit-anchal-333358229/
 
