@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rohitanchal
-- 👀 I’m interested in ...Development and projects 
-- 🌱 I’m currently learning ...Frameworks and DSA
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in: Software Development, Problem-Solving, and Exciting Tech Projects.
+- 🌱 I’m working as a Full-Stack Developer, focusing on frameworks, data structures, and algorithms (DSA).
+- 💞️ I’m looking to collaborate on: Open-source projects, innovative software solutions, and community-driven initiatives.
 - 📫 How to reach me ...https://www.linkedin.com/in/rohit-anchal-333358229/
 
 <!---
